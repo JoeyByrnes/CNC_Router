@@ -9,7 +9,7 @@ Design files for a custom CNC router I made for my home machine shop
   <img width="90%" src="readme-visuals/cnc-router-1.png">
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=rgnSSfL3274" target="_blank"><img width="90%" src="readme-visuals/video-link.png"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=rgnSSfL3274"><img width="90%" src="readme-visuals/video-link.png"></a>
 </p>
 <p align="center">
   <img width="90%" src="readme-visuals/router-render-1.JPG">
