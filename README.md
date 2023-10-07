@@ -1,2 +1,16 @@
 # CNC_Router
 Design files for a custom CNC router I made for my home machine shop
+<br>
+<br>
+<b>Please Note:</b> While this project does have an open source license, I don't intend on making an assembly guide or providing support, so I recommend only using this project if you're already comfortable designing and building a CNC router yourself and just want a proven starting point for the mechanical design.
+<br>
+<br>
+<p align="center">
+  <img width="90%" src="readme-visuals/cnc-router-1.png">
+</p>
+<p align="center">
+  <img width="90%" src="readme-visuals/router-render-1.JPG">
+</p>
+<p align="center">
+  <img width="90%" src="readme-visuals/router-render-back.JPG">
+</p>
